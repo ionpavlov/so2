@@ -1,0 +1,1 @@
+cmd_/home/john/so2/lab05/lab05-tasks/so2_kbd.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/john/so2/lab05/lab05-tasks/so2_kbd.ko /home/john/so2/lab05/lab05-tasks/so2_kbd.o /home/john/so2/lab05/lab05-tasks/so2_kbd.mod.o ;  true
